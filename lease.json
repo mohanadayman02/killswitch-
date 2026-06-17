@@ -1,6 +1,6 @@
 {
   "lease": {
-    "enabled": truw,
+    "enabled": true,
     "deployment_id": "default",
     "issued_at": 1781703298,
     "expires_at": 1781705098,
