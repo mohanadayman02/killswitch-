@@ -2,8 +2,9 @@
   "lease": {
     "enabled": false,
     "deployment_id": "default",
-    "issued_at": 1781701431,
-    "expires_at": 1781703231
+    "issued_at": 1781703298,
+    "expires_at": 1781705098,
+    "message": "We're doing maintenance \u2014 back at 5pm."
   },
-  "signature": "25a93ce70ea0ee893808bd428145ccadfb1029b9120ee22db9b883c1d4e4b3b85666ad697160cc02210084c65d020045f7c198037bdd06750fafc474fd19fc00"
+  "signature": "dcbb84935b9709d953becfcf66c2af9b9d94b645c98f86c0af80179bc309f54d44cf4eff982bdc0071eb9db2a960b22cd7abc48e80d5e9b315d8e0428c867d08"
 }
