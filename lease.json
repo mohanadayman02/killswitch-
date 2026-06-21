@@ -2,8 +2,8 @@
   "lease": {
     "enabled": true,
     "deployment_id": "default",
-    "issued_at": 1782046695,
-    "expires_at": 1782050295
+    "issued_at": 1782046853,
+    "expires_at": 1782651653
   },
-  "signature": "2a0049ccf36e80480b952f71eb56273227552e52f464e7b7f3b241dab28c63b32bb8e5381d2afb7cfb76ba42528c2dd4ba24da7996a6a460bc27b05fdef53305"
+  "signature": "3e7c9ea6ed1f882e80bdd81b5b9ddf8f145b74d913cfb575e567f689d5c0e9a6e57459b019b968f78265f8cc31cef30bafaffa37346f9b5c1b92f55f9ed53002"
 }
